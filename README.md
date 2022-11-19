@@ -1,9 +1,9 @@
 # 💫 About Me:
 
-👋 Hi, I’m @JoeTessier, and I'm currently working in Paris, FR, on an enterprise Java application
-👀 I’m interested in any open-source or socially involved tech
-🌱 I'm currently learning VueJS alongside Tailwind, and any other productivity-related tips
-💬 Ask me about any VS code tip
+👋 Hi, I’m @JoeTessier, and I'm currently working in Paris, FR, on an enterprise Java application<br/>
+👀 I’m interested in any open-source or socially involved tech<br/>
+🌱 I'm currently learning VueJS alongside Tailwind, and any other productivity-related tips<br/>
+💬 Ask me about any VS code tip<br/>
 
 
 ## 🌐 Socials:
